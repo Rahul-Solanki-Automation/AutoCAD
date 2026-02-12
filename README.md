@@ -34,5 +34,5 @@ opportunities in the field of **Instrumentation and Control Engineering**.
  👨‍🎓 Author
 
 Rahul Solanki
-Instrumentation & Control Engineering (6th Semester)
+Instrumentation & Control Engineering 
 L.D. College of Engineering, Ahmedabad
